@@ -1,0 +1,125 @@
+{
+  "editor.fontWeight": 400,
+  "editor.fontSize": 12,
+  "editor.lineHeight": 2,
+  "editor.quickSuggestionsDelay": 0,
+  "editor.inlineSuggest.enabled": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.foldingImportsByDefault": true,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.accessibilitySupport": "off",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+  "explorer.confirmDelete": false,
+  "workbench.list.smoothScrolling": true,
+  "editor.linkedEditing": true,
+  "editor.minimap.renderCharacters": false,
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "files.autoSave": "onWindowChange",
+  "angular.forceStrictTemplates": true,
+  "typescript.inlayHints.enumMemberValues.enabled": true,
+  "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "typescript.inlayHints.variableTypes.enabled": true,
+  "terminal.integrated.fontSize": 13,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "workbench.startupEditor": "none",
+  "editor.renderWhitespace": "none",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": true
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": false
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.suggest.objectLiteralMethodSnippets.enabled": false,
+  "eslint.options": {
+    "extensions": [".ts", ".html"]
+  },
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "files.watcherExclude": {
+    "**/bin": true
+  },
+  "files.exclude": {
+    "**/obj": true
+  },
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSurroundingLines": 15,
+  "workbench.colorTheme": "Gruvbox Dark Medium",
+  "workbench.colorCustomizations": {
+    "editorInlayHint.background": "#80dbff07",
+    "editorInlayHint.foreground": "#80dbffd7"
+  },
+  "search.exclude": {
+    "**/.angular": true
+  },
+  "editor.minimap.enabled": false,
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "[html][typescript]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    }
+  },
+  "editor.fontVariations": false,
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontFamily": "monospace",
+  "workbench.iconTheme": "file-icons",
+  "breadcrumbs.enabled": false,
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false,
+  "window.density.editorTabHeight": "compact",
+  "workbench.activityBar.location": "top",
+  "application.shellEnvironmentResolutionTimeout": 50,
+  // APC
+  "apc.font.family": "Geist Mono",
+  "apc.activityBar": {
+    "position": "bottom",
+    "hideSettings": true,
+    "size": 20
+  },
+  "apc.statusBar": {
+    "position": "editor-bottom",
+    "height": 30,
+    "fontSize": 10
+  },
+  "apc.header": {
+    "height": 25,
+    "fontSize": 11
+  },
+  "apc.listRow": {
+    "height": 19,
+    "fontSize": 11
+  },
+}
+
