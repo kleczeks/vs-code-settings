@@ -101,7 +101,6 @@
   "window.density.editorTabHeight": "compact",
   "workbench.activityBar.location": "top",
   "application.shellEnvironmentResolutionTimeout": 50,
-  // APC
   "apc.font.family": "Geist Mono",
   "apc.activityBar": {
     "position": "bottom",
